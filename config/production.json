@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://islam123:islam123@devconnector-nnycb.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "7cf584c9875377389b36",
-    "githubSecret": "732b43f48b8d816872cf79156593b8dd99ad1e17"
-}
